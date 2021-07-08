@@ -1,1 +1,3 @@
-# This is a GUI-CALCULATOR by using tkinter and can perform for scientific calculations
+# GUI-CALCULATOR
+This is a GUI- CALCULATOR formed using tkinter and can be used
+to perform scientific calculations.
