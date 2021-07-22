@@ -1,6 +1,6 @@
 # GUI-CALCULATOR
 ### This is a GUI- CALCULATOR formed using tkinter and can be used
-to perform scientific calculations.
+### to perform scientific calculations.
 
 # Working Screenshot
 <img src ="calculator-ss.jpg" height="300" width="300">
