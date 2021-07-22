@@ -3,4 +3,4 @@ This is a GUI- CALCULATOR formed using tkinter and can be used
 to perform scientific calculations.
 
 # Working Image
-<img src ="calculator-ss.jpg" height="400" width="400">
+<img src ="calculator-ss.jpg" height="300" width="300">
